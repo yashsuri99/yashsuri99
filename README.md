@@ -56,20 +56,11 @@ When I'm not writing production code, I'm building personal projects at the inte
 A full-stack e-commerce platform built with React and Node.js. Features product listing, cart management, and responsive UI built with SCSS.
 `React` `Node.js` `SCSS` `REST APIs`
 
-### 💬 [Meetings App](https://github.com/yashsuri99/Meetings-App)
-A scheduling and meeting management application.
-`JavaScript` `React`
-
-### 🧠 [Memories](https://github.com/yashsuri99/Memories)
-A full-stack social memories application with authentication and CRUD operations.
-`React` `Node.js` `MongoDB`
-
 ---
 
 ## What I'm Working On
 
 - 🔨 **Truu** — A behavioral intelligence platform for Indian retail investors, built with Next.js + TypeScript + Python. Integrates with Zerodha Kite Connect API to surface cognitive bias patterns in trading behavior.
-- 📈 **Project Einstein** — An automated swing trading system targeting Nifty 100 stocks with a rules-based signal engine, Kelly fraction sizing, and VIX regime filters.
 - 🤖 **The Council** — A multi-agent AI system where locally hosted LLM instances collaborate autonomously to build software. Experimenting with Ollama, agent role specialization, and orchestration state machines.
 
 ---
@@ -84,18 +75,6 @@ A full-stack social memories application with authentication and CRUD operations
 | Jan 2022 – Jul 2022 | Engineering Trainee | Publicis Sapient |
 
 **B.Tech, Computer Science** — Manipal University Jaipur (2018–2022)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashsuri99&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsuri99&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook,java,python)
-
-</div>
 
 ---
 

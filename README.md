@@ -52,16 +52,44 @@ When I'm not writing production code, I'm building personal projects at the inte
 
 ## Featured Projects
 
-### 🏦 [Apna Bazaar](https://github.com/yashsuri99/Apna-Bazaar)
-A full-stack e-commerce platform built with React and Node.js. Features product listing, cart management, and responsive UI built with SCSS.
-`React` `Node.js` `SCSS` `REST APIs`
+### 📊 [TrueWorth](https://github.com/yashsuri99/TrueWorth)
+<!-- ⚠️ FILL THIS IN: Replace the line below with 1-2 sentences about what TrueWorth actually does -->
+TrueWorth is a full-stack wealth management application built with enterprise-grade security and modern architecture patterns. It enables users to:
+
+📊 Track multiple investment portfolios
+💼 Manage diverse asset types (Stocks, Mutual Funds, FDs, NPS, Real Estate, Crypto)
+🔐 Secure authentication with MFA (TOTP & Email-based)
+📈 Monitor holdings and transactions
+🎯 Set and track financial goals
+📝 Complete audit trail with immutable logging
+`TypeScript` `React`
+
+### 🛒 [Apna Bazaar](https://github.com/yashsuri99/Apna-Bazaar)
+A fullstack e-commerce platform with product catalogue, cart management, and user authentication. React frontend with a Node.js/Express backend and custom SCSS design system.
+`React` `Node.js` `Express` `SCSS`
+
+### 🏥 [Hospital Management System](https://github.com/yashsuri99/Hospital-Management-System)
+A microservices-based hospital management backend built while learning Java. Features separate services for patients, billing, analytics, and auth — communicating via REST and gRPC, orchestrated with Docker Compose.
+`Java` `Spring Boot` `gRPC` `Docker` `Microservices`
+
+### 📈 [MoneyMaker](https://github.com/yashsuri99/MoneyMaker)
+<!-- ⚠️ FILL THIS IN: Replace the line below with what MoneyMaker actually does -->
+An institutional-grade quantitative trading engine for the NSE, leveraging GNN-enhanced labeling, fractional differentiation, and dual-horizon XGBoost ensembles to extract 
+non-linear alpha.
+`Python`
 
 ---
 
 ## What I'm Working On
 
-- 🔨 **Truu** — A behavioral intelligence platform for Indian retail investors, built with Next.js + TypeScript + Python. Integrates with Zerodha Kite Connect API to surface cognitive bias patterns in trading behavior.
 - 🤖 **The Council** — A multi-agent AI system where locally hosted LLM instances collaborate autonomously to build software. Experimenting with Ollama, agent role specialization, and orchestration state machines.
+
+---
+
+## DSA Practice
+
+Actively solving problems on NeetCode as part of my interview prep for product company roles.
+→ [View my submissions](https://github.com/yashsuri99/neetcode-submissions-nu7syxv8)
 
 ---
 

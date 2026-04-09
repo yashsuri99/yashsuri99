@@ -1,10 +1,11 @@
 <div align="center">
 
 # Yash Suri
-### Frontend Engineer · React · TypeScript · Micro-Frontend Architecture
+### Fullstack Engineer · React · TypeScript · Micro-Frontend Architecture · Java (Learning)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-suri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.suri99@outlook.com)
+[![LeetCode](https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://github.com/yashsuri99/neetcode-submissions-nu7syxv8)
 
 </div>
 
@@ -12,9 +13,9 @@
 
 ## About Me
 
-Frontend engineer with 3+ years building large-scale React applications for enterprise clients. Currently at **Publicis Sapient**, working on digital banking platforms for Lloyds Banking Group — one of the UK's largest retail banks — where I've led micro-frontend architecture migrations, built accessible component design systems, and shipped frontend at scale for millions of users across 8+ countries.
+Fullstack Engineer with 3+ years building large-scale React applications for enterprise clients. Currently at **Publicis Sapient**, working on digital banking platforms for Lloyds Banking Group — one of the UK's largest retail banks — where I've led micro-frontend architecture migrations, built accessible component design systems, and shipped frontend at scale for millions of users across 8+ countries.
 
-I care about: clean component design, performance, accessibility, and writing frontend code that's maintainable by teams — not just individuals.
+My core strength is **JavaScript/TypeScript fullstack** — React on the frontend, Node.js on the backend. I'm actively expanding into **Java + Spring Boot** backend development and sharpening my DSA through daily NeetCode practice, working towards a transition into product companies.
 
 When I'm not writing production code, I'm building personal projects at the intersection of **frontend engineering** and **fintech** — including a behavioral analytics platform for Indian retail investors and an automated swing trading system targeting NSE/BSE markets.
 
@@ -43,10 +44,15 @@ When I'm not writing production code, I'm building personal projects at the inte
 **Backend & DevOps**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Currently Learning**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
